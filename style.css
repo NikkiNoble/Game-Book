@@ -1,0 +1,20 @@
+p {
+    color: rgb(24, 7, 3);
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+    color: darkslateblue;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    color: rgb(35, 3, 87);
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font: outline;
+    background: linear-gradient(135deg, rgb(238, 225, 213) 50%, rgb(146, 230, 225));
+    text-align: center;
+}
