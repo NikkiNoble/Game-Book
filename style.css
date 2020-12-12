@@ -80,6 +80,9 @@ th, td {
     letter-spacing: 2px;
     text-transform: uppercase;
   }
+  #rows {
+      font-size: 30px;
+  }
 
 /*thead,
 tfoot {
