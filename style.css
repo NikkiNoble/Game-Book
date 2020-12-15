@@ -132,8 +132,10 @@ article {
   font-size: 35px;
   text-align: center;
   height: 100px;
+  color: rgb(71, 24, 24);
 }
 
 .banner {
   height: 700px;
+  
 }
